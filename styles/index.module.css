@@ -1,0 +1,20 @@
+.main
+{
+    display: flex;
+}
+
+.section1
+{
+    display: flex;
+    align-items: center;
+}
+
+.sideShot
+{
+    border: #333 5px double;
+}
+
+.section1Par
+{
+    padding: 100px;
+}
