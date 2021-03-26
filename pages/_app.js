@@ -1,7 +1,14 @@
+//**************************************************
+//Import Styles
 import '../styles/globals.css'
+//**************************************************
 
-function MyApp({ Component, pageProps }) {
+
+
+//**************************************************
+//Export Application
+export default function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
 }
+//**************************************************
 
-export default MyApp
