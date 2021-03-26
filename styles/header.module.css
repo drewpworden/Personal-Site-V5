@@ -1,0 +1,18 @@
+.header
+{
+    height: 100px;
+    border-bottom: 5px double #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1
+{
+    font-family: chopin;
+    font-weight: 400;
+    font-size: 40px;
+    margin: 0px 20px;
+    color: #333;
+    cursor: pointer;
+}

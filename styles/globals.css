@@ -1,1 +1,38 @@
+@font-face
+{
+  font-family: chopin;
+  src: url(../public/fonts/chopin/chopin.ttf)
+}
 
+@font-face
+{
+  font-family: playfair-regular;
+  src: url(../public/fonts/playfair/playfair-regular.ttf)
+}
+
+@font-face
+{
+  font-family: playfair-regular-italic;
+  src: url(../public/fonts/playfair/playfair-regular-italic.ttf)
+}
+
+@font-face
+{
+  font-family: rough-regular;
+  src: url(../public/fonts/rough/rough-regular.otf)
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #F8F8F8;
+}

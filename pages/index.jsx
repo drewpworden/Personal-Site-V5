@@ -1,15 +1,18 @@
 //**************************************************
+//Import Components
+import Header from "../components/header";
+//**************************************************
+
+//**************************************************
 //Import Styles
 import style from "../styles/index.module.css";
 //**************************************************
 
-
-
 //**************************************************
 //Index Component
-export default function Index () {
-  return (
-    <h1>Index</h1>
-  )
+export default function Index() {
+    return (
+      <Header/>
+    )
 }
 //**************************************************
